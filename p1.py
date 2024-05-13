@@ -1,4 +1,5 @@
 #
 # pyouna tutrial 1
 #
-print("Hello Python-Youna")
+list=[1,2,3,4,5]
+print("Hello Python-Youna!")
